@@ -12,8 +12,10 @@ Identify the top-level functional requirements for the clock and model them with
 
 This is the use case diagram:
 ![image](https://github.com/iiilight/Clock-Alarm/blob/master/CKD.png)
+
 This is the use case description
 Name|Clcok Alarm system
+---|---
 Description|Use this clock to set time and one or two alarm with snooze time
 Actor|Users
 Frequency of Use| Everyday
